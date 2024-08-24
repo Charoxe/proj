@@ -1,0 +1,30 @@
+# dir
+/upload/
+/.well-known/*
+/local/logs/*
+/library/
+/vendor/
+/dist/
+.idea
+/bitrix/
+
+# files
+*/.idea/deployment.xml
+/.htsecure
+/restore.php
+/debug.log
+/sitemap.xml
+/yandex.html
+/google.html
+/mailru.html
+/.jpg
+/.png
+/w.php
+/.csv
+/.txt
+/__bx_log.log
+/robots.txt
+
+# file: ~/.gitignore_global
+.DS_Store
+.idea
